@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeofencingTest</string>
+    <string name="not_connected">not connected</string>
+    <string name="geofences_added">Added</string>
+    <string name="geofences_removed">Removed</string>
+    <string name="geofence_not_available">not Available</string>
+    <string name="geofence_too_many_geofences">too many geofences</string>
+    <string name="geofence_too_many_pending_intents">too many pending intents</string>
+    <string name="unknown_geofence_error">unknown error</string>
+    <string name="geofence_transition_invalid_type">Invalid Type</string>
+    <string name="geofence_transition_notification_text">notafication text</string>
+    <string name="geofence_transition_entered">enterd</string>
+    <string name="geofence_transition_exited">exit</string>
+    <string name="unknown_geofence_transition">unknown transition</string>
+</resources>
